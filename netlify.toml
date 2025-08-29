@@ -3,5 +3,6 @@
   command = "hugo --minify"
 
 [build.environment]
-  HUGO_VERSION = "0.115.0-extended"
+  # specify normal Hugo version; extended will be installed automatically
+  HUGO_VERSION = "0.115.0"
   HUGO_ENV = "production"
