@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>RISE Projects</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .Params.repo_url }}">{{ .Title }}</a><br/>
+        {{ .Params.description }} <br/>
+        ⭐ {{ .Params.stars }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My New Hugo Site</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 09:05:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ffm</title>
+      <link>http://localhost:1313/projects/ffm/</link>
+      <pubDate>Wed, 25 Jun 2025 09:05:37 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ffm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COPLAC-Hydromet-Hazards</title>
+      <link>http://localhost:1313/projects/coplac-hydromet-hazards/</link>
+      <pubDate>Tue, 27 May 2025 08:56:58 +0000</pubDate>
+      <guid>http://localhost:1313/projects/coplac-hydromet-hazards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RISE_deamon</title>
+      <link>http://localhost:1313/projects/rise_deamon/</link>
+      <pubDate>Mon, 30 Sep 2024 14:59:46 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rise_deamon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RISE_backend</title>
+      <link>http://localhost:1313/projects/rise_backend/</link>
+      <pubDate>Thu, 05 Sep 2024 18:03:43 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rise_backend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RISE_client</title>
+      <link>http://localhost:1313/projects/rise_client/</link>
+      <pubDate>Thu, 05 Sep 2024 18:03:19 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rise_client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>java-project</title>
+      <link>http://localhost:1313/projects/java-project/</link>
+      <pubDate>Thu, 06 Jul 2023 16:05:57 +0000</pubDate>
+      <guid>http://localhost:1313/projects/java-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>projectX</title>
+      <link>http://localhost:1313/projects/projectx/</link>
+      <pubDate>Tue, 09 May 2023 20:35:33 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projectx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cm-client</title>
+      <link>http://localhost:1313/projects/cm-client/</link>
+      <pubDate>Mon, 07 Nov 2022 09:10:29 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cm-client/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
